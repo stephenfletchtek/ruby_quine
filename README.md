@@ -1,0 +1,1 @@
+Attempt at ruby quine
